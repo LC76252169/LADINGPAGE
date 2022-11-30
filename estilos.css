@@ -1,0 +1,47 @@
+body{
+    background-size: cover;
+}
+
+.cabecera{
+    text-align: center;
+    background-color: gray;
+    opacity: 0.9;
+    border-radius: 15px;
+
+}
+.textocabecera{
+    text-align: center;
+    color: black;
+    font-size: large;
+    
+}
+.cuerpo{
+    display: flex;
+}
+.formulario{
+    width: 70%;
+    line-height: 2em;
+
+}
+.campo{
+    width: 100%;
+
+}
+.ebook{
+    background-color: aqua;
+    text-align: center;
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+a{ 
+    text-decoration: none;
+  
+
+}
+.img{
+    
+	width: 341px;
+	height: 343px;
+}
